@@ -4,10 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90274d79-d0f4-49ea-8319-c4423ef890b6" name="Changes" comment="All the files for 13.08.2024 programs are added">
-      <change afterPath="$PROJECT_DIR$/src/PyATB4XAssignments/Task1_13.08.2024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PyATB4XAssignments/Task2_13.08.2024.py" afterDir="false" />
+    <list default="true" id="90274d79-d0f4-49ea-8319-c4423ef890b6" name="Changes" comment="13.08.2024 Home Work files are added.">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/LAb0029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0034.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/LAb009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/LAb009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab013.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +71,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.LAb0029.executor": "Run",
     "Python.LAb009.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0014.executor": "Run",
@@ -68,7 +87,11 @@
     "Python.Lab0023.executor": "Run",
     "Python.Lab0024.executor": "Run",
     "Python.Lab0025.executor": "Run",
+    "Python.Lab0026.executor": "Run",
+    "Python.Lab0027.executor": "Run",
     "Python.Lab003.executor": "Run",
+    "Python.Lab0030.executor": "Run",
+    "Python.Lab0031.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
@@ -84,6 +107,11 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\PyATB4xLearning\src\ex_17082024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
@@ -253,30 +281,39 @@
       <option name="project" value="LOCAL" />
       <updated>1723807982475</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="13.08.2024 Home Work files are added.">
+      <option name="closed" value="true" />
+      <created>1723813348636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723813348636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 added" />
     <MESSAGE value="All the files for 10.08.2024 programs are added" />
     <MESSAGE value="All the files for 13.08.2024 programs are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files for 13.08.2024 programs are added" />
+    <MESSAGE value="13.08.2024 Home Work files are added." />
+    <option name="LAST_COMMIT_MESSAGE" value="13.08.2024 Home Work files are added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_10.08.2024/Lab012.py</url>
+          <url>file://$PROJECT_DIR$/src/ex_10082024/Lab012.py</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_10.08.2024/Lab012.py</url>
+          <url>file://$PROJECT_DIR$/src/ex_10082024/Lab012.py</url>
           <line>3</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_10.08.2024/Lab012.py</url>
+          <url>file://$PROJECT_DIR$/src/ex_10082024/Lab012.py</url>
           <line>4</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
