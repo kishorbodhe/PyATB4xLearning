@@ -4,28 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90274d79-d0f4-49ea-8319-c4423ef890b6" name="Changes" comment="13.08.2024 Home Work files are added.">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/LAb0029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0034.py" afterDir="false" />
+    <list default="true" id="90274d79-d0f4-49ea-8319-c4423ef890b6" name="Changes" comment="17.08.2024 notes files are added.">
+      <change afterPath="$PROJECT_DIR$/src/PyATB4XTasks/Task3_17.08.2024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATB4XTasks/Task4_17.08.2024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATB4XTasks/Task5_17.08.2024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATB4XTasks/Task6_17.08.2024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/LAb009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/LAb009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10.08.2024/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PyATB4XAssignments/Task1_13.08.2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATB4XTasks/Task1_13.08.2024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PyATB4XAssignments/Task2_13.08.2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATB4XTasks/Task2_13.08.2024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab0032.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0032.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +79,9 @@
     "Python.Lab003.executor": "Run",
     "Python.Lab0030.executor": "Run",
     "Python.Lab0031.executor": "Run",
+    "Python.Lab0034.executor": "Run",
+    "Python.Lab0035.executor": "Run",
+    "Python.Lab0036.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
@@ -102,6 +92,8 @@
     "Python.Lab013.executor": "Run",
     "Python.Task13082024.executor": "Run",
     "Python.Task2_13.08.2024.executor": "Run",
+    "Python.Task3_17.08.2024.executor": "Run",
+    "Python.Task4_17.08.2024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "run.code.analysis.last.selected.profile": "pProject Default"
@@ -112,8 +104,8 @@
       <recent name="C:\Users\USER\PycharmProjects\PyATB4xLearning\src\ex_17082024" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task4_17.08.2024">
+    <configuration name="Lab0036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,55 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10.08.2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10.08.2024/Lab005.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10.08.2024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10.08.2024/Lab006.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10.08.2024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10.08.2024/Lab007.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Lab0036.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,13 +171,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task3_17.08.2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/PyATB4XTasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/PyATB4XTasks/Task3_17.08.2024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task4_17.08.2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/PyATB4XTasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/PyATB4XTasks/Task4_17.08.2024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task4_17.08.2024" />
+        <item itemvalue="Python.Task3_17.08.2024" />
+        <item itemvalue="Python.Lab0036" />
         <item itemvalue="Python.Lab010" />
         <item itemvalue="Python.Lab008" />
-        <item itemvalue="Python.Lab007" />
-        <item itemvalue="Python.Lab006" />
-        <item itemvalue="Python.Lab005" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723813348636</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="17.08.2024 notes files are added.">
+      <option name="closed" value="true" />
+      <created>1724058916284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724058916284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,7 +297,8 @@
     <MESSAGE value="All the files for 10.08.2024 programs are added" />
     <MESSAGE value="All the files for 13.08.2024 programs are added" />
     <MESSAGE value="13.08.2024 Home Work files are added." />
-    <option name="LAST_COMMIT_MESSAGE" value="13.08.2024 Home Work files are added." />
+    <MESSAGE value="17.08.2024 notes files are added." />
+    <option name="LAST_COMMIT_MESSAGE" value="17.08.2024 notes files are added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

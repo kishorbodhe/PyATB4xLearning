@@ -1,28 +1,26 @@
-# x//y
-# x%y
-# x**y
-# ==
+# Operators
 
-print(5 // 2)  # ? Quotient
-print(5 % 2)  # ? Remainder
+# Not operator
+is_pramod_married = True
+print(not is_pramod_married) #! - java
+print(is_pramod_married)
 
-# 2 | 5 | 2 - Quotient
-#   | 4 |
-# --------
-#     1 - Remainder
+# is - this operator Java
 
-print(13 // 2)
-print(13 % 2)
+# Logical Operator -> bool ->
+# > , <  >= <=
+x = 10
+y = 20
+print(x > y) # False
+print(x < y) # True
 
-# // and /
-# / -> div
-# // -> Quotient
+a = 10
+b = 10
+print(a >= b) # 10 > 10 or 10 = 10
+print(a == b)  # 10 = 10
 
-print(2 ** 2)  # ** - power
-print(2 ** 3)  # ** - power
-print(2 ** 4)  # ** - power
-
-#  ==  Compare Operator ( True or False
-
-print(2 == 2)
-print(2 == 3)
+# OR or And GATE
+f = False
+t = True
+print(f or t)
+print(f and t)
