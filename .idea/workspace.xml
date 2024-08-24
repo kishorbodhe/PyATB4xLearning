@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90274d79-d0f4-49ea-8319-c4423ef890b6" name="Changes" comment="17.08.2024 Task files are added.">
-      <change afterPath="$PROJECT_DIR$/src/PyATB4XTasks/Task7_20.08.2024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab041.py" afterDir="false" />
+    <list default="true" id="90274d79-d0f4-49ea-8319-c4423ef890b6" name="Changes" comment="20.08.2024 All files are added.">
+      <change afterPath="$PROJECT_DIR$/src/ex_20.08.2024/Lab042.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +93,7 @@
     "Python.Task2_13.08.2024.executor": "Run",
     "Python.Task3_17.08.2024.executor": "Run",
     "Python.Task4_17.08.2024.executor": "Run",
+    "Python.Task9_20.08.2024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/USER/PycharmProjects/PyATB4xLearning/src/ex_20082024",
@@ -305,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724116999343</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20.08.2024 All files are added.">
+      <option name="closed" value="true" />
+      <created>1724289638840</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724289638840</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -315,7 +319,8 @@
     <MESSAGE value="13.08.2024 Home Work files are added." />
     <MESSAGE value="17.08.2024 notes files are added." />
     <MESSAGE value="17.08.2024 Task files are added." />
-    <option name="LAST_COMMIT_MESSAGE" value="17.08.2024 Task files are added." />
+    <MESSAGE value="20.08.2024 All files are added." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.08.2024 All files are added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
